@@ -1,4 +1,4 @@
-##**WGTE Main Site Redesign**
+###**WGTE Main Site Redesign**
 
 **Introduction:** 
 
