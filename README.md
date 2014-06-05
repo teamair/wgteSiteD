@@ -6,8 +6,7 @@ The design and development work included in this folder will be the basis for th
 
 **Notes:** For design work all flattened PSDs are located under the images folder. 
 
-**Updates 6-5-14:** Some links maybe disabled while the project is currently being installed into Wordpress. 
-
+**Updates 6-5-14:** Some img links maybe broken while the project is currently being reorganized and installed into Wordpress.
 
 
 
